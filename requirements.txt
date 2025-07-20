@@ -2,4 +2,6 @@ ipykernel
 langchain
 langchain-chroma
 langchain-groq
+langchain_community
 sentence-transformers
+bs4
