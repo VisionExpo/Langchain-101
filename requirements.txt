@@ -2,3 +2,4 @@ ipykernel
 langchain
 langchain-chroma
 langchain-groq
+sentence-transformers
